@@ -415,7 +415,7 @@ button {
     .button-footer-left  { 
 max-width: fit-content;    
     height: 30px;
-         margin-left: 10px;
+         margin-left: 90px;
     }
     .button-footer-left  a{  
         font-size: 15px;
@@ -436,7 +436,7 @@ max-width: fit-content;
 
     .button-footer-right img{
         width: 20%;
-        height: 30px;
+        height: 60px;
     }
     .button-footer-right p { 
         height: 35px;  
